@@ -7,13 +7,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Katayoon+Faraji...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=0e75b6&style=flat" alt="katayoon-faraji-web" /> </p
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=0e75b6&style=flat" alt="katayoon-faraji-web" /> 
 ## 💫 About Me:
 - 💬 Ask me about: **HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React**
 - 📫 How to reach me **farajikatayoon75@gmail.com**
 - 👩‍💻 All of my projects are available at [https://github.com/katayoon-faraji-web](https://github.com/katayoon-faraji-web)
 - ⚡ About me: **I'm Katayoon Faraji. A Front-End Developer. Here, you can see my projects and  please ask me if you have any questions. ♥️**
-
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katayoon_faraji_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katayoon-faraji-web) 

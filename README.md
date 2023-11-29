@@ -9,9 +9,9 @@
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=0e75b6&style=flat" alt="katayoon-faraji-web" /> </p>
 ## 💫 About Me:
-- 💬 Ask me about: **HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React**
-- 📫 How to reach me **farajikatayoon75@gmail.com**
-- 👩‍💻 All of my projects are available at [https://github.com/katayoon-faraji-web](https://github.com/katayoon-faraji-web)
+- 💬 Ask me about: **HTML5, CSS3, SASS, Bootstrap, Tailwind, Javascript, React, Typescript, Python , C++**
+- 📫 How to reach me: **farajikatayoon75@gmail.com**
+- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/katayoon-faraji-web)**
 - ⚡ About me: **I'm Katayoon Faraji. A Front-End Developer. Here, you can see my projects and  please ask me if you have any questions. ♥️**
 
 

@@ -11,7 +11,7 @@
  💫 About Me:
 - 💬 Ask me about: **HTML5, CSS3, SASS, Bootstrap, Tailwind, Javascript, React, Typescript, Python , C++<br/>
 - 📫 How to reach me: **farajikatayoon75@gmail.com**<br/>
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/katayoon-faraji-web)<br/>
+- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/mehrsa-mohajeri-developer) <br/>
 - ⚡ About me: **I'm Katayoon Faraji. A Front-End Developer from Iran. Here, you can see my projects and please ask me if you have any questions. ♥️<br/>
 
 

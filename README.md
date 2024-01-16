@@ -1,5 +1,8 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC00CC&height=180&section=header"/>
+  
+  <video width=100% muted autoplay>
+    <source src="https://pic.pikbest.com/19/78/45/70j888piC392.mp4" type="video/mp4">
+  </video>
 </a>
 
 <h1 align="center">

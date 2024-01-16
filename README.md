@@ -22,15 +22,15 @@
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=katayoon-faraji-web&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?userkatayoon-faraji-web&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katayoon-faraji-web&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=katayoon-faraji-web&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?userkatayoon-faraji-web&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=katayoon-faraji-web&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=katayoon-faraji-web&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=katayoon-faraji-web&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt)
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=katayoon-faraji-web&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=katayoon-faraji-web&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>

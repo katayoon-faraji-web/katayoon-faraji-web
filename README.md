@@ -35,7 +35,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=katayoon-faraji-web&bg_color=193549&color=58a6ff&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=katayoon-faraji-web&bg_color=000&color=58a6ff&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 

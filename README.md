@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katayoon-faraji-web&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=katayoon-faraji-web&theme=cobalt&no-frame=false&no-bg=true&margin-w=4&color=c576c2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=katayoon-faraji-web&theme=coblat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=katayoon-faraji-web&limit=5&theme=cobalt&combine_all_yearly_contributions=true)

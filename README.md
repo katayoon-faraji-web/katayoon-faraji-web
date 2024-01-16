@@ -1,5 +1,5 @@
 <a href="#">
- <img width=100% src="https://static.wixstatic.com/media/456e21_7d2e873852a54d37943be3df62f1aa07~mv2.gif"/>
+ <img width=100% height=400px src="https://static.wixstatic.com/media/456e21_7d2e873852a54d37943be3df62f1aa07~mv2.gif"/>
 </a>
 
 <h1 align="center">

@@ -38,4 +38,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=katayoon-faraji-web&bg_color=193549&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+

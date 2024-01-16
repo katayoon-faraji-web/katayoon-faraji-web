@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Katayoon+Faraji...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=CC00CC&background=FFFFFF00">
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=0e75b60&style=flat" alt="katayoon-faraji-web" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=#0000FF&style=flat" alt="katayoon-faraji-web" /> </p>
  💫 About Me:<br/>
  💬 Ask me about: HTML5 , CSS3 , SASS , Bootstrap , Tailwind , Javascript , React , Typescript , Python , C++<br/>
  📫 How to reach me:<a  href="mailto:farajikatayoon75@gmail.com">farajikatayoon75@gmail.com</a><br/>

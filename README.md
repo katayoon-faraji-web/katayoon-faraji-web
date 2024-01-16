@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Katayoon+Faraji...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=CC00CC&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Katayoon+Faraji...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
   </a>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=821FF7&style=flat" alt="katayoon-faraji-web" /> </p>

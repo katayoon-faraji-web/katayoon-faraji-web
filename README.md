@@ -1,6 +1,6 @@
 <a href="#">
   
-  <video width=100% muted autoplay controls>
+  <video width=100%  controls>
     <source src="https://pic.pikbest.com/19/78/45/70j888piC392.mp4" type="video/mp4">
   </video>
 </a>

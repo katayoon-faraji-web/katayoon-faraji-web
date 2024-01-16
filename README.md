@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Katayoon+Faraji...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=483D8B&background=FFFFFF00">
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=483D8B&style=flat" alt="katayoon-faraji-web" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=c576c2&style=flat" alt="katayoon-faraji-web" /> </p>
  💫 About Me:<br/>
  💬 Ask me about: HTML5 , CSS3 , SASS , Bootstrap , Tailwind , Javascript , React , Typescript , Python , C++<br/>
  📫 How to reach me:<a  href="mailto:farajikatayoon75@gmail.com">farajikatayoon75@gmail.com</a><br/>
@@ -16,7 +16,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katayoon_faraji_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katayoon-faraji-web) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=c576c2)](https://instagram.com/katayoon_faraji_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=c576c2)](https://www.linkedin.com/in/katayoon-faraji-web) 
 
 
 ## 💻 Tech Stack:

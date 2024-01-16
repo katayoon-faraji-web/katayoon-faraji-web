@@ -1,7 +1,5 @@
 <a href="#">
-  
-  <video src="https://pic.pikbest.com/19/78/45/70j888piC392.mp4">
-  </video>
+ <img width=100% src="https://ryansechrest.com/content/images/2022/08/nodes.gif"/>
 </a>
 
 <h1 align="center">

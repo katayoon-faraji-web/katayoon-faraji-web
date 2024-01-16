@@ -27,10 +27,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katayoon-faraji-web&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=katayoon-faraji-web&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=katayoon-faraji-web&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte)
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=katayoon-faraji-web&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=katayoon-faraji-web&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>

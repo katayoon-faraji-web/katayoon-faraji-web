@@ -4,10 +4,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Katayoon+Faraji...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=c576c2&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Katayoon+Faraji...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=58a6ff&background=FFFFFF00">
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=c576c2&style=flat" alt="katayoon-faraji-web" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=katayoon-faraji-web&label=Profile%20views&color=58a6ff&style=flat" alt="katayoon-faraji-web" /> </p>
  💫 About Me:<br/>
  💬 Ask me about: HTML5 , CSS3 , SASS , Bootstrap , Tailwind , Javascript , React , Typescript , Python , C++<br/>
  📫 How to reach me:<a  href="mailto:farajikatayoon75@gmail.com">farajikatayoon75@gmail.com</a><br/>
@@ -35,7 +35,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=katayoon-faraji-web&bg_color=193549&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=katayoon-faraji-web&bg_color=193549&color=58a6ff&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 

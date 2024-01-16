@@ -1,5 +1,5 @@
 <a href="#">
- <img width=100% src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif"/>
+ <img width=100% src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif"/>
 </a>
 
 <h1 align="center">
